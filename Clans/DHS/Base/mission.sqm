@@ -823,7 +823,7 @@ class Mission
 		{
 			position[]={20899.623,1.3457,19226.277};
 			azimut=304.854;
-			offsetY=1.3457;
+			offsetY=1.5;
 			id=74;
 			side="EMPTY";
 			vehicle="Land_Laptop_device_F";
@@ -834,7 +834,7 @@ class Mission
 		{
 			position[]={20898.666,1.3457,19225.838};
 			azimut=357.86801;
-			offsetY=1.3457;
+			offsetY=1.5;
 			id=75;
 			side="EMPTY";
 			vehicle="Land_Laptop_device_F";
@@ -900,7 +900,7 @@ class Mission
 		{
 			position[]={20899.197,1.3469501,19225.93};
 			azimut=332.09601;
-			offsetY=1.3469501;
+			offsetY=1.5;
 			id=81;
 			side="EMPTY";
 			vehicle="Land_Laptop_device_F";
